@@ -71,7 +71,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="/blank-avatar.webp"
+                  src="/blank-avatar.png"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -89,7 +89,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="/blank-avatar.webp"
+                  src="/blank-avatar.png"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -107,7 +107,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="/blank-avatar.webp"
+                  src="/blank-avatar.png"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -125,7 +125,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="/blank-avatar.webp"
+                  src="/blank-avatar.png"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -141,7 +141,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="/blank-avatar.webp"
+                  src="/blank-avatar.png"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
