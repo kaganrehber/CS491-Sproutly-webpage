@@ -3,7 +3,6 @@ import "./index.css";
 function App() {
   return (
     <div className="w-full min-h-screen font-sans">
-      {/* Header */}
       <header className="sticky top-0 bg-[#56daae] h-20 flex items-center justify-between px-8 z-50 shadow-md">
         <p className="text-white text-2xl font-bold">Sproutly</p>
 
@@ -31,7 +30,6 @@ function App() {
 
       {/* Main Content */}
       <main className="w-full">
-        {/* Home Section - Green */}
         <section
           id="home"
           className="w-full h-screen flex items-center justify-center bg-[#56daae]"
@@ -41,7 +39,6 @@ function App() {
           </h1>
         </section>
 
-        {/* About Section - White */}
         <section
           id="about"
           className="w-full min-h-screen flex items-center justify-center bg-white p-8"
@@ -74,7 +71,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="../public/blank-avatar.webp"
+                  src="/blank-avatar.webp"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -92,7 +89,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="../public/blank-avatar.webp"
+                  src="/blank-avatar.webp"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -110,7 +107,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="../public/blank-avatar.webp"
+                  src="/blank-avatar.webp"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -128,7 +125,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="../public/blank-avatar.webp"
+                  src="/blank-avatar.webp"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
@@ -144,7 +141,7 @@ function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col animate-fadeInUp">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <img
-                  src="../public/blank-avatar.webp"
+                  src="/blank-avatar.webp"
                   alt="avatar"
                   className="h-full w-full object-cover"
                 />
