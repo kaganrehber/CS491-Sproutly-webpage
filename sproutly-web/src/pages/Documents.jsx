@@ -48,6 +48,14 @@ const reports = [
     phaseColor: "bg-amber-100 text-amber-700",
     size: "~1.0 MB",
   },
+  {
+    title: "Final Report",
+    desc: "Complete project summary covering implementation, testing, and outcomes.",
+    href: "documents/final-report.pdf",
+    phase: "Phase 5",
+    phaseColor: "bg-rose-100 text-rose-700",
+    size: "~6.2 MB",
+  },
 ];
 
 const logbooks = [
